@@ -1,6 +1,8 @@
 ## Introduction
 * This repository provides an inplementation of facetts.
 * This is an algorithm for estimating cardinality in inner product spaces
+* As for the details about facetts, please read our IEEE Open Journal of the Computer Society paper,  
+Cardinality Estimation in Inner Product Space
 
 ## Environment
 * Linux OS (Ubuntu)
@@ -23,7 +25,7 @@
 ## Citation
 If you use our implementation, please cite the following paper.
 ```
-@inproceedings{?,  
+@article{?,  
     title={Cardinality Estimation in Inner Product Space},  
     author={Hirata, Kohei and Amagata, Daichi and Hara, Takahiro},  
     booktitle={?},  
