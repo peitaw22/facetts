@@ -1,5 +1,6 @@
-## Facetts
-* An algorithm for estimating cardinality in inner product spaces
+## Introduction
+* This repository provides an inplementation of facetts.
+* This is an algorithm for estimating cardinality in inner product spaces
 
 ## Environment
 * Linux OS (Ubuntu)
@@ -18,3 +19,19 @@
 * Parameter setting is via ``threshold.txt & sampling_number.txt`` at ``parameter`` directory.
 * Compile: ``g++ -O3 -o facetts.out facetts.cpp -std=c++11``
 * Run: ``./facetts.out``
+
+## Citation
+If you use our implementation, please cite the following paper.
+```
+@inproceedings{?,  
+    title={Cardinality Estimation in Inner Product Space},  
+    author={Hirata, Kohei and Amagata, Daichi and Hara, Takahiro},  
+    booktitle={?},  
+    pages={?--?},  
+    year={2022}  
+}
+```
+
+## License
+Copyright (c) 2022 peitaw22  
+This software is released under the [MIT license](https://github.com/peitaw22/facetts/blob/main/LICENSE).
