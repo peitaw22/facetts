@@ -28,9 +28,11 @@ If you use our implementation, please cite the following paper.
 @article{?,  
     title={Cardinality Estimation in Inner Product Space},  
     author={Hirata, Kohei and Amagata, Daichi and Hara, Takahiro},  
-    booktitle={?},  
+    journal={IEEE Open Journal of the Computer Society}, 
+    volume={?},
     pages={?--?},  
-    year={2022}  
+    year={2022},
+    publisher={}
 }
 ```
 
