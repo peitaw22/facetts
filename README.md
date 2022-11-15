@@ -25,14 +25,14 @@ Cardinality Estimation in Inner Product Space
 ## Citation
 If you use our implementation, please cite the following paper.
 ```
-@article{?,  
+@article{hirata2022cardinality,  
     title={Cardinality Estimation in Inner Product Space},  
     author={Hirata, Kohei and Amagata, Daichi and Hara, Takahiro},  
     journal={IEEE Open Journal of the Computer Society}, 
-    volume={?},
-    pages={?--?},  
+    volume={3},
+    pages={208--216},  
     year={2022},
-    publisher={?}
+    publisher={IEEE}
 }
 ```
 
